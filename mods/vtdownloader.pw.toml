@@ -1,0 +1,13 @@
+name = "VTDownloader"
+filename = "vt-downloader-1.0.6+1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1E2sq1cp/versions/1.0.6+1.18/vt-downloader-1.0.6+1.18.jar"
+hash-format = "sha1"
+hash = "769fd2a5096fe72f3c48cea4db2ac2a3d50d2502"
+
+[update]
+[update.modrinth]
+mod-id = "1E2sq1cp"
+version = "F3u72XMh"

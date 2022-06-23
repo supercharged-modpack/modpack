@@ -1,0 +1,13 @@
+name = "Resounding"
+filename = "resounding-1.0.0-bc.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UwbKhrqq/versions/v1.0.0-bc.9/resounding-1.0.0-bc.9.jar"
+hash-format = "sha1"
+hash = "40058170d53d6f63c1e429be851383e59020123d"
+
+[update]
+[update.modrinth]
+mod-id = "UwbKhrqq"
+version = "n6x015i9"

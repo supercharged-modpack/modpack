@@ -1,0 +1,13 @@
+name = "SuperCharged"
+author = "terminalmaid"
+version = "1.1.6"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a41315cca045f3cf32a86f436d2e779d6aa4846e3646f3f87e4de87d5ef1db24"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.1-beta.4"

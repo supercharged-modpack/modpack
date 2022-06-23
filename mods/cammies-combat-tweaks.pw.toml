@@ -1,0 +1,13 @@
+name = "Cammie's Combat Tweaks"
+filename = "combattweaks-1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HtvWBTYK/versions/1.12/combattweaks-1.12.jar"
+hash-format = "sha1"
+hash = "b9185756e108474031f85eda15e2705c453512d6"
+
+[update]
+[update.modrinth]
+mod-id = "HtvWBTYK"
+version = "K6nr3wuO"

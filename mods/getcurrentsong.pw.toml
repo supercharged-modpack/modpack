@@ -1,0 +1,13 @@
+name = "Get Current Song"
+filename = "get-current-song-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DceBabwS/versions/1.0.1/get-current-song-1.0.1.jar"
+hash-format = "sha1"
+hash = "1d96a8229aaad719dc8aca0f7018b8203fb070b3"
+
+[update]
+[update.modrinth]
+mod-id = "DceBabwS"
+version = "YI7jk3r0"

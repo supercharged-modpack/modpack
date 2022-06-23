@@ -1,0 +1,13 @@
+name = "More Music"
+filename = "moremusic-0.1.2+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dGBEUH8l/versions/0.1.2+1.18.2/moremusic-0.1.2%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "ed22493d023c52b378acb756a7191bf06ba63e81"
+
+[update]
+[update.modrinth]
+mod-id = "dGBEUH8l"
+version = "gmjCz80n"

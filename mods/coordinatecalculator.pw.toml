@@ -1,0 +1,13 @@
+name = "Coordinate Calculator"
+filename = "CoordinateCalculator 0.2 1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qpMCYKV8/versions/0.2/CoordinateCalculator%200.2%201.18.2.jar"
+hash-format = "sha1"
+hash = "ae7b30339fc9d8b3430374f490ccb6c64d813a9b"
+
+[update]
+[update.modrinth]
+mod-id = "qpMCYKV8"
+version = "uMwvn2Yd"

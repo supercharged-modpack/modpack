@@ -1,0 +1,13 @@
+name = "Combined Modifiers"
+filename = "cmods-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X5JJNmDn/versions/1.2.0-quilt/cmods-1.2.0.jar"
+hash-format = "sha1"
+hash = "36252ad01ba7761497412fc6c4e7819974301ba1"
+
+[update]
+[update.modrinth]
+mod-id = "X5JJNmDn"
+version = "QmCsTlBl"
