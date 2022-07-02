@@ -1,13 +1,13 @@
 name = "Dye All The Things"
-filename = "DyeAllTheThings-1.2.jar"
+filename = "DyeAllTheThings-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YyXC2IpG/versions/1.2.0/DyeAllTheThings-1.2.jar"
+url = "https://cdn.modrinth.com/data/YyXC2IpG/versions/1.2.1/DyeAllTheThings-1.2.1.jar"
 hash-format = "sha1"
-hash = "f13552b1034340aed10511439e932d8af343c6ed"
+hash = "73836b8cfc9a7fdca6549583f0d8f91df13ade23"
 
 [update]
 [update.modrinth]
 mod-id = "YyXC2IpG"
-version = "NXpiZ5xk"
+version = "E0iS8TsL"

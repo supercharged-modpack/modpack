@@ -1,0 +1,13 @@
+name = "Block Entity Extended Rendering"
+filename = "block-entity-extended-rendering-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pW8yWsAv/versions/1.0.3/block-entity-extended-rendering-1.0.3.jar"
+hash-format = "sha1"
+hash = "bb1183e12bdc560aefd3cab7b5d5d25d1ea9b149"
+
+[update]
+[update.modrinth]
+mod-id = "pW8yWsAv"
+version = "wobDc92v"

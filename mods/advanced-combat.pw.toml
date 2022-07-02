@@ -1,0 +1,13 @@
+name = "Advanced Combat"
+filename = "AdvancedCombatRewoven-1.18.2-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xui2VukE/versions/1.0fc/AdvancedCombatRewoven-1.18.2-1.0.jar"
+hash-format = "sha1"
+hash = "6d15af11f4b4bacb6854f512bed76ddcd90729b2"
+
+[update]
+[update.modrinth]
+mod-id = "xui2VukE"
+version = "n5JVw9Ty"

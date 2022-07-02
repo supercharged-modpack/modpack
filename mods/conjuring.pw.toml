@@ -1,0 +1,13 @@
+name = "Conjuring"
+filename = "conjuring-1.0.22+1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GriMtaoD/versions/1.0.22+1.18/conjuring-1.0.22%2B1.18.jar"
+hash-format = "sha1"
+hash = "9669afc5a8264e3c3ab080b6a1e9f3479f54911e"
+
+[update]
+[update.modrinth]
+mod-id = "GriMtaoD"
+version = "1UvuMKQj"

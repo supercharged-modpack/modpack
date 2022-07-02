@@ -1,0 +1,13 @@
+name = "Quickcraft"
+filename = "quickcraft-1.2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EJc9w2pm/versions/1.2.5/quickcraft-1.2.5.jar"
+hash-format = "sha1"
+hash = "fe4926a0966186a8f59f7aa9fb8e3b0d806f4600"
+
+[update]
+[update.modrinth]
+mod-id = "EJc9w2pm"
+version = "u0my88Iq"
