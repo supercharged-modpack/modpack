@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2things.pw.toml"
-hash = "c64354dd9e2c0fff48b973f98d12807360ab5faf62d051f3f5d1050c910b6a7d"
+hash = "7790d12f9a943ccf630520d2ccd8d46acd6d10bcde75f74383b0eb9e54143aa3"
 metafile = true
 
 [[files]]
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9ab81bd4f0c97596e3b9f5270d226f8fb41c91fd30b5637905b81e7dcb29c4d8"
+hash = "2fdcd8eb8a2e5ae247fad3b5a44d4a3cdf9228e999ecfd5949648d5d1554f345"
 metafile = true
 
 [[files]]
@@ -154,8 +154,8 @@ hash = "79f3286302f5e1f5b72deb24e2425420aad6395f81bdfce80d567c943f68279c"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "f726e4e0b1481c9fcebabb78da8c50382ee7add661b38f820fb5b6ab6f5c0d0b"
+file = "mods/cammies-wearable-backpacks.pw.toml"
+hash = "74cdf6810bb4c11f002b4494a3ebd9f42f85fc60d0640a82838a7cee910cdd95"
 metafile = true
 
 [[files]]
@@ -179,8 +179,13 @@ hash = "367815925e45cbd7c3e6e33712038edf20f6139a6a98f460215a28f106a91be8"
 metafile = true
 
 [[files]]
+file = "mods/chunk-copy-fabric.pw.toml"
+hash = "80f1c82f01492d16e02cb5976df64548f5ba85f5b5da00eb4a43fbb33cb18fc0"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "e05bd2aa1eb88048b3cbe0845772453fab4e1b49f8ec19f192935d782f65939e"
+hash = "8a3b58552083779e461ff3ac406f81bb1b7057974f161cba2a090a5b2f73a205"
 metafile = true
 
 [[files]]
@@ -195,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/cmods.pw.toml"
-hash = "828d8f474baa67d6cf2d4e8f5ae25f6adba92c77d0ae1fd139a7de12bd959490"
+hash = "b005c92ba28b9b7a6dbbf813e65d83d8550d0318abdb7b9cc78dcd82545f1823"
 metafile = true
 
 [[files]]
@@ -226,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
+metafile = true
+
+[[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "b1c56b69505b05a5b601d66ae42bad4b7dbb47814bcd256c2e0b9236e9a79bf7"
 metafile = true
 
 [[files]]
@@ -590,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "cdc42be3ee7d53f0c55f4b849de430a88484067e14cc8e4983f33678a62532f5"
+hash = "7a0648f91f4a7473214572cc5d7afa5b629fc82c90fbd69b21497a0aef747b36"
 metafile = true
 
 [[files]]
@@ -616,11 +626,6 @@ metafile = true
 [[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "da403a55fd88f2d2aeacec6de320b7c8fb5010a7de8b831414fb4933681c9f44"
-metafile = true
-
-[[files]]
-file = "mods/scout.pw.toml"
-hash = "8374046d8a57865de82edb8b5b6ec01944845ce44c7ff07bbfe9ddba4afa9413"
 metafile = true
 
 [[files]]
@@ -722,3 +727,15 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Technoblade Pig.zip"
+hash = "263f17600fccd02d34a60f6807ca59ba7153913ca13f921103c17297179280ce"
+
+[[files]]
+file = "resourcepacks/custom-splashes/assets/minecraft/texts/splashes.txt"
+hash = "7834790dd8d35767efb8ad6002db9925e63fc87b60e75201d90313e52a802244"
+
+[[files]]
+file = "resourcepacks/custom-splashes/pack.mcmeta"
+hash = "0f8996fcf1088a6bcc77e5b5ccc934c0ab0b5d3f71e2050137197b7ad1bbcef0"

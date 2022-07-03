@@ -1,13 +1,13 @@
 name = "AE2 Things"
-filename = "AE2Things-1.1.0-beta.6.jar"
+filename = "AE2Things-1.1.0-beta.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/veunMwU3/versions/1.1.0-beta.6/AE2Things-1.1.0-beta.6.jar"
+url = "https://cdn.modrinth.com/data/veunMwU3/versions/1.1.0-beta.7/AE2Things-1.1.0-beta.7.jar"
 hash-format = "sha1"
-hash = "17a1001181dc7ca0bb597a34ef25f48d8c9be47a"
+hash = "b67a976a811608240703b2c0a3830a96940988fa"
 
 [update]
 [update.modrinth]
 mod-id = "veunMwU3"
-version = "OCVuwRmd"
+version = "bKBqBBzM"
