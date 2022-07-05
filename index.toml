@@ -5,6 +5,10 @@ file = "config/debugify.json"
 hash = "db82104fddaf69716ac655e84bb5122b3b016798cc2d8dcb8950b2f15b7dd471"
 
 [[files]]
+file = "config/simple-rpc.toml"
+hash = "a6e92815868818873966e429c9043ef86b31e7e385017595c09d21e12d250ab8"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "5765bb030f5ef52169bf7ab857ae5633c09ef47de42741eb979d88ba89f23862"
 
@@ -30,12 +34,17 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "5f99a9e80c2ea75a4151e0d811fda950fff06ccb2e29a1724777069d6d9e84ed"
+hash = "7854bfed9702edf6733199d7c13eb119eecac715542ed991e8b6dde3f9c05cd0"
 metafile = true
 
 [[files]]
 file = "mods/ae2things.pw.toml"
 hash = "7790d12f9a943ccf630520d2ccd8d46acd6d10bcde75f74383b0eb9e54143aa3"
+metafile = true
+
+[[files]]
+file = "mods/allisultimatetools.pw.toml"
+hash = "5abce17fb0cba8fca12b47a53b21d866e83789392d1202ef2c2cf12e46329746"
 metafile = true
 
 [[files]]
@@ -65,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "f14ca282df4cf9682f22b64ce59365caf11e7295d61746a16b9aa32de9da2eb6"
+hash = "74ac9fafbd1bcc7eed44b25deff85f1b871bdf0bdff25b9b5dfeff4209624aec"
 metafile = true
 
 [[files]]
@@ -200,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/cmods.pw.toml"
-hash = "b005c92ba28b9b7a6dbbf813e65d83d8550d0318abdb7b9cc78dcd82545f1823"
+hash = "828d8f474baa67d6cf2d4e8f5ae25f6adba92c77d0ae1fd139a7de12bd959490"
 metafile = true
 
 [[files]]
@@ -370,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "d024c4c4708244d5fdc0a69c2b51590022c20cb1121da2db494e0dcba9d91eab"
+hash = "53beaf5a66ef80ec0d86c1467d68b7b43d3bc9a54989ab762d4297fb4ed0fc88"
 metafile = true
 
 [[files]]
@@ -404,6 +413,11 @@ hash = "bd1c8acaa580e022882b63aa396e587359581a823b741a9ad65fba0335b784f1"
 metafile = true
 
 [[files]]
+file = "mods/illager-expansion-forked.pw.toml"
+hash = "6e874df82174870ed74174f1ff5ed7a983de2a3caf370bf2cda579798c1a10a9"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
 metafile = true
@@ -425,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/isometric-renders.pw.toml"
-hash = "3e2fb3bad57121a831ac20ff9fea960d9f281006a7a20cb333fa1e1134514fdb"
+hash = "5289e92b785d58d49a2e0577772b2c62d5e58e3ca1130bac66aa5ba3e006d76a"
 metafile = true
 
 [[files]]
@@ -479,6 +493,11 @@ hash = "5977b263e2694941ddc2e5279259089215fb72ea53ca1491a0e101c97896311a"
 metafile = true
 
 [[files]]
+file = "mods/merge-enchantments.pw.toml"
+hash = "a1ddcd360312b027931b0fe654f87e71890721a13acab355a96df54dc957b0be"
+metafile = true
+
+[[files]]
 file = "mods/midas-hunger.pw.toml"
 hash = "b402ae67a9ae64cc3676847ad131e8c72e8057588fefb4fdae3f2633f9732f28"
 metafile = true
@@ -501,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/moremusic.pw.toml"
 hash = "8fdc4c939b107f939dbb6cf445ed174b248d7c61721ba8cb2c89b4a48358d4a9"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "82a6f6e97d141ba3ac11f27931600a2e14bf94907cf88fc26c63c1f078413858"
 metafile = true
 
 [[files]]
@@ -629,6 +653,11 @@ hash = "da403a55fd88f2d2aeacec6de320b7c8fb5010a7de8b831414fb4933681c9f44"
 metafile = true
 
 [[files]]
+file = "mods/shadews-foxes.pw.toml"
+hash = "13609665c7c34f83488514d225e973482a14193930f90c1bf424da33905d7708"
+metafile = true
+
+[[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "ce255e065dba1c4cc20a9a9c0267ab4a102de3c4558933ccd63101103de04810"
 metafile = true
@@ -636,6 +665,11 @@ metafile = true
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "92dc874a7927672556ad3d33783c44d9f7a51be5b56d08801c02c7c22ca488f5"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "40833a9072d10d5c692e181e623dfd102d9a146068be4d7f584e7a89a77b7b42"
 metafile = true
 
 [[files]]
@@ -671,6 +705,11 @@ metafile = true
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "5228a366a70a5f5c8675962e1d17f4000a34b841c36aa8ef5cb2c51b82a4f127"
+metafile = true
+
+[[files]]
+file = "mods/too-many-binds.pw.toml"
+hash = "9e300122d6fd6aab78a5669841ccf50ccaf17274ca2b690b3aa9b78de05edfbb"
 metafile = true
 
 [[files]]
@@ -729,12 +768,36 @@ hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Technoblade Pig.zip"
-hash = "263f17600fccd02d34a60f6807ca59ba7153913ca13f921103c17297179280ce"
+file = "resourcepacks/Techno Pig/assets/dorianpb/cem/pig.jem"
+hash = "7234813a7f3f8331687d4f763700d2512f7874b1579e6c29801256c22e4921a0"
+
+[[files]]
+file = "resourcepacks/Techno Pig/assets/minecraft/optifine/cem/pig.jem"
+hash = "7234813a7f3f8331687d4f763700d2512f7874b1579e6c29801256c22e4921a0"
+
+[[files]]
+file = "resourcepacks/Techno Pig/assets/minecraft/optifine/random/entity/pig/pig.properties"
+hash = "6593a9d840598c58266b06bb9a0310e24ba030fd31d5e032786feb1170a32e37"
+
+[[files]]
+file = "resourcepacks/Techno Pig/assets/minecraft/optifine/random/entity/pig/pig2.png"
+hash = "ad8c27b772b49cfcd2f32fadaf1b0764fdb5d8f95947821a9cbbfa1af77ebee8"
+
+[[files]]
+file = "resourcepacks/Techno Pig/assets/minecraft/textures/entity/pig/pig.png"
+hash = "c3118856ce6a23c5ccfa19f58855eec96f71ba4b192dbc28a41c0870d371f089"
+
+[[files]]
+file = "resourcepacks/Techno Pig/pack.mcmeta"
+hash = "b9883e30365ad62f2c1e1c71c6e1cd395e1a72fb3d0e711f26f24100acd782b9"
+
+[[files]]
+file = "resourcepacks/Techno Pig/pack.png"
+hash = "1ee198f93a93038919f344fdb6d53972331063f2245c9f5ef2f96a738900b640"
 
 [[files]]
 file = "resourcepacks/custom-splashes/assets/minecraft/texts/splashes.txt"
-hash = "7834790dd8d35767efb8ad6002db9925e63fc87b60e75201d90313e52a802244"
+hash = "d18f9bc39904ff25e30486196b030cb2a34fb984c0e2f1424c791500d37f5638"
 
 [[files]]
 file = "resourcepacks/custom-splashes/pack.mcmeta"
