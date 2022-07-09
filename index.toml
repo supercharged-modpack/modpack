@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "730e22c082738967bd84bed469b3c30c89013e17d22967272adaa81ea2c6adaf"
+hash = "6c63238004c4a723805f59be898756cfb1b297a48fc4d002b2f1c8379f891032"
 metafile = true
 
 [[files]]
@@ -520,11 +520,6 @@ metafile = true
 [[files]]
 file = "mods/moremusic.pw.toml"
 hash = "8fdc4c939b107f939dbb6cf445ed174b248d7c61721ba8cb2c89b4a48358d4a9"
-metafile = true
-
-[[files]]
-file = "mods/mythicmetals.pw.toml"
-hash = "82a6f6e97d141ba3ac11f27931600a2e14bf94907cf88fc26c63c1f078413858"
 metafile = true
 
 [[files]]
@@ -604,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "8cc917a1ec48b6aa8074cfe16ba2bbd3b9c9fa9c4a4dde7214fe25d8a492ed3d"
+hash = "761170eaeece33f423619aefe9de989bac69c68deb29f7df8653eecabcb303e2"
 metafile = true
 
 [[files]]
@@ -713,6 +708,11 @@ hash = "9e300122d6fd6aab78a5669841ccf50ccaf17274ca2b690b3aa9b78de05edfbb"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "3fdc9a7558c912db84c2b62845896e74a1633450a0d2a0721bce6a382b842213"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
@@ -797,7 +797,7 @@ hash = "1ee198f93a93038919f344fdb6d53972331063f2245c9f5ef2f96a738900b640"
 
 [[files]]
 file = "resourcepacks/custom-splashes/assets/minecraft/texts/splashes.txt"
-hash = "d18f9bc39904ff25e30486196b030cb2a34fb984c0e2f1424c791500d37f5638"
+hash = "48d2f18741399e34b3d9fcd6e0beeede919a1ee7364fd12fe2e8df94540d7cb1"
 
 [[files]]
 file = "resourcepacks/custom-splashes/pack.mcmeta"
