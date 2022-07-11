@@ -14,7 +14,7 @@ realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:true
@@ -30,14 +30,14 @@ simulationDistance:16
 entityDistanceScaling:1.0
 guiScale:0
 particles:0
-maxFps:2000
+maxFps:300
 difficulty:2
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["Fabric Mods","minecraft/supporteatinganimation","charmonium/journeyman","lambdabettergrass/default","Theinar Language"]
+resourcePacks:["vanilla","charmonium/journeyman","minecraft/supporteatinganimation","Fabric Mods","Theinar Language","file/linuxmaid-totem","file/custom-splashtexts","file/technoblade-pig","file/Copper Legacy Pack.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

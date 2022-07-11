@@ -10,7 +10,7 @@ hash = "a6e92815868818873966e429c9043ef86b31e7e385017595c09d21e12d250ab8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5765bb030f5ef52169bf7ab857ae5633c09ef47de42741eb979d88ba89f23862"
+hash = "f7d177f23689d108793e00b35c6c219f3077a917bd0a57595ed39a37fcfeddfa"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -55,6 +55,11 @@ metafile = true
 [[files]]
 file = "mods/amecs.pw.toml"
 hash = "68c17672bedcc8b65352d63b1bbff131581be1f007c15e621adda9fedcb09fd8"
+metafile = true
+
+[[files]]
+file = "mods/amethyst-imbuement.pw.toml"
+hash = "6e2e0d8482db876442583ddb10fc5dd43ef447f6ed2aff015b0fa112bc0329c9"
 metafile = true
 
 [[files]]
@@ -120,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "9793a50a86ab7b2d2419fa4c3eca9b04df55ece3250f75d6e70f0c44fd2ed453"
+metafile = true
+
+[[files]]
+file = "mods/better-mineshaft.pw.toml"
+hash = "a0cf7acbc9f708c2cd73cc89aec7a1429cfa4af3068f6a843f11ef20586166c4"
 metafile = true
 
 [[files]]
@@ -628,6 +638,11 @@ hash = "7535d73ee3573369cc8bc6a40d81a73b55aef444f360a33cef5e2b45954e9036"
 metafile = true
 
 [[files]]
+file = "mods/reaping.pw.toml"
+hash = "eb60004acc2ae85d3cda85d4073ba095e66d012563d7454d8b808cc8cbd3543c"
+metafile = true
+
+[[files]]
 file = "mods/rebind-all-the-keys.pw.toml"
 hash = "b3f659f479ff39409de60807048612643910025e34fe77697c3a749f5736d5c2"
 metafile = true
@@ -768,37 +783,49 @@ hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Techno Pig/assets/dorianpb/cem/pig.jem"
-hash = "7234813a7f3f8331687d4f763700d2512f7874b1579e6c29801256c22e4921a0"
-
-[[files]]
-file = "resourcepacks/Techno Pig/assets/minecraft/optifine/cem/pig.jem"
-hash = "7234813a7f3f8331687d4f763700d2512f7874b1579e6c29801256c22e4921a0"
-
-[[files]]
-file = "resourcepacks/Techno Pig/assets/minecraft/optifine/random/entity/pig/pig.properties"
-hash = "6593a9d840598c58266b06bb9a0310e24ba030fd31d5e032786feb1170a32e37"
-
-[[files]]
-file = "resourcepacks/Techno Pig/assets/minecraft/optifine/random/entity/pig/pig2.png"
-hash = "ad8c27b772b49cfcd2f32fadaf1b0764fdb5d8f95947821a9cbbfa1af77ebee8"
-
-[[files]]
-file = "resourcepacks/Techno Pig/assets/minecraft/textures/entity/pig/pig.png"
-hash = "c3118856ce6a23c5ccfa19f58855eec96f71ba4b192dbc28a41c0870d371f089"
-
-[[files]]
-file = "resourcepacks/Techno Pig/pack.mcmeta"
-hash = "b9883e30365ad62f2c1e1c71c6e1cd395e1a72fb3d0e711f26f24100acd782b9"
-
-[[files]]
-file = "resourcepacks/Techno Pig/pack.png"
-hash = "1ee198f93a93038919f344fdb6d53972331063f2245c9f5ef2f96a738900b640"
-
-[[files]]
-file = "resourcepacks/custom-splashes/assets/minecraft/texts/splashes.txt"
+file = "resourcepacks/custom-splashtexts/assets/minecraft/texts/splashes.txt"
 hash = "48d2f18741399e34b3d9fcd6e0beeede919a1ee7364fd12fe2e8df94540d7cb1"
 
 [[files]]
-file = "resourcepacks/custom-splashes/pack.mcmeta"
+file = "resourcepacks/custom-splashtexts/pack.mcmeta"
 hash = "0f8996fcf1088a6bcc77e5b5ccc934c0ab0b5d3f71e2050137197b7ad1bbcef0"
+
+[[files]]
+file = "resourcepacks/linuxmaid-totem/assets/minecraft/textures/item/totem_of_undying.png"
+hash = "8ada2e45a054726aaad83e6d75814bbf33e1c895fd3f12ca9b2c75aab67e6340"
+
+[[files]]
+file = "resourcepacks/linuxmaid-totem/pack.mcmeta"
+hash = "1586292f742bc65540a87bd77989e213b477279f364804fbf63912e528ef7e0d"
+
+[[files]]
+file = "resourcepacks/linuxmaid-totem/pack.png"
+hash = "a7811cee1eb553828977b5ffa0124765734a2926f4aa897c36c27f0c107050c9"
+
+[[files]]
+file = "resourcepacks/technoblade-pig/assets/dorianpb/cem/pig.jem"
+hash = "7234813a7f3f8331687d4f763700d2512f7874b1579e6c29801256c22e4921a0"
+
+[[files]]
+file = "resourcepacks/technoblade-pig/assets/minecraft/optifine/cem/pig.jem"
+hash = "7234813a7f3f8331687d4f763700d2512f7874b1579e6c29801256c22e4921a0"
+
+[[files]]
+file = "resourcepacks/technoblade-pig/assets/minecraft/optifine/random/entity/pig/pig.properties"
+hash = "6593a9d840598c58266b06bb9a0310e24ba030fd31d5e032786feb1170a32e37"
+
+[[files]]
+file = "resourcepacks/technoblade-pig/assets/minecraft/optifine/random/entity/pig/pig2.png"
+hash = "ad8c27b772b49cfcd2f32fadaf1b0764fdb5d8f95947821a9cbbfa1af77ebee8"
+
+[[files]]
+file = "resourcepacks/technoblade-pig/assets/minecraft/textures/entity/pig/pig.png"
+hash = "c3118856ce6a23c5ccfa19f58855eec96f71ba4b192dbc28a41c0870d371f089"
+
+[[files]]
+file = "resourcepacks/technoblade-pig/pack.mcmeta"
+hash = "b9883e30365ad62f2c1e1c71c6e1cd395e1a72fb3d0e711f26f24100acd782b9"
+
+[[files]]
+file = "resourcepacks/technoblade-pig/pack.png"
+hash = "1ee198f93a93038919f344fdb6d53972331063f2245c9f5ef2f96a738900b640"
