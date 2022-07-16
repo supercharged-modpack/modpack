@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "74ac9fafbd1bcc7eed44b25deff85f1b871bdf0bdff25b9b5dfeff4209624aec"
+hash = "85c977e4c0b1183e17230521113a89819bd0b4893c15bd8c38230ea6b214ab64"
 metafile = true
 
 [[files]]
@@ -165,11 +165,6 @@ metafile = true
 [[files]]
 file = "mods/bucket-warning.pw.toml"
 hash = "c657c465d2a8ccc5f6931dda385903b8c38e0f1195681d0fd882aed989eec244"
-metafile = true
-
-[[files]]
-file = "mods/cammies-minecart-tweaks.pw.toml"
-hash = "79f3286302f5e1f5b72deb24e2425420aad6395f81bdfce80d567c943f68279c"
 metafile = true
 
 [[files]]
@@ -343,11 +338,6 @@ hash = "686e7208edaa2689b41630cc78ea777911f07ef98a8fe33ddafecf8b5b61a8ed"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "bc859d5d17706a14eff618bae19efe135954a56c5afc963a84a6591ea468cd5e"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
@@ -403,6 +393,11 @@ hash = "740a7bd6d1f00ac4be71227a1a187683b275e87879cdb5648577f75b26807fc5"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "c738d6b16833d8516cd6bcb163964f0e84244944e01e66346fa6747c1a1a817a"
+metafile = true
+
+[[files]]
 file = "mods/getcurrentsong.pw.toml"
 hash = "6ba9b50350d3ec4e938519488b0f6887a5f42f7b21d382d158f0b73c39833e46"
 metafile = true
@@ -439,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d162092b7040429242c744d9e823f2b9386fa3fa8961d238bfbc7aaaf6bb499a"
+hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
 metafile = true
 
 [[files]]
@@ -533,6 +528,11 @@ hash = "8fdc4c939b107f939dbb6cf445ed174b248d7c61721ba8cb2c89b4a48358d4a9"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "82a6f6e97d141ba3ac11f27931600a2e14bf94907cf88fc26c63c1f078413858"
+metafile = true
+
+[[files]]
 file = "mods/netherite-cake.pw.toml"
 hash = "b5faa83e9948337f66eebf5f8cba58122ef0eabce427f322f63b05367bb0eab4"
 metafile = true
@@ -603,6 +603,11 @@ hash = "1743fefefa32ec36bd2fb72b95bddb13f3fc1476b11c82a68fcb784fd5c54b6f"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "75ca28e134847fcd6ea835e35c36f9a57ca4ccccd618bafba570524d3c8142f2"
+metafile = true
+
+[[files]]
 file = "mods/purpeille.pw.toml"
 hash = "b28d4e7cc67a9d4b35df0220d966c3849b77866919c25516025f62f70a7fe9f0"
 metafile = true
@@ -633,11 +638,6 @@ hash = "7a0648f91f4a7473214572cc5d7afa5b629fc82c90fbd69b21497a0aef747b36"
 metafile = true
 
 [[files]]
-file = "mods/rangefinderhud.pw.toml"
-hash = "7535d73ee3573369cc8bc6a40d81a73b55aef444f360a33cef5e2b45954e9036"
-metafile = true
-
-[[files]]
 file = "mods/reaping.pw.toml"
 hash = "eb60004acc2ae85d3cda85d4073ba095e66d012563d7454d8b808cc8cbd3543c"
 metafile = true
@@ -653,8 +653,8 @@ hash = "c704ab1b78607e345633f54f6f0d3a4ffa9fdb37600c87a794bd67fab3ec9b54"
 metafile = true
 
 [[files]]
-file = "mods/resounding.pw.toml"
-hash = "c537808775d23b10bab57f859614e3b17a40796b0b2f08ce6729e5a192b5496e"
+file = "mods/roughly-enough-items.pw.toml"
+hash = "261c6f1cddd8eb3e4bdab72d2787bbc462007ab169844767bdf38ca1917c6b1d"
 metafile = true
 
 [[files]]
@@ -680,6 +680,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "40833a9072d10d5c692e181e623dfd102d9a146068be4d7f584e7a89a77b7b42"
+metafile = true
+
+[[files]]
+file = "mods/simplevillagers.pw.toml"
+hash = "e08c15ad879b230dcd156d2674fdd179c613a41a95c6495c7118212de4a69a55"
 metafile = true
 
 [[files]]
@@ -735,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/ui-input-undo-fabric.pw.toml"
 hash = "ff1b3eef89752e0aa9c1be02d67760c441d7cd4b4c6ddf38c851eea4ced49a31"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "95ced6d1cec31ae63190b5117dc04b7ead1e943d0a00e015397a66171031c69e"
 metafile = true
 
 [[files]]
