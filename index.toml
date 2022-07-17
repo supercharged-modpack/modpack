@@ -302,6 +302,11 @@ hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
 
 [[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "478b47ac835738da245df714d3c5c8475a1c1ef11127197cf0863771513d313f"
+metafile = true
+
+[[files]]
 file = "mods/disc-jockey.pw.toml"
 hash = "f40cdfda928e53d6a7b58f7fd7a6515dd1c9c3813a9bcbb14bef2cd3c5515e65"
 metafile = true
