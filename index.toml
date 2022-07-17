@@ -9,6 +9,10 @@ file = "config/debugify.json"
 hash = "db82104fddaf69716ac655e84bb5122b3b016798cc2d8dcb8950b2f15b7dd471"
 
 [[files]]
+file = "config/desiredservers.json"
+hash = "432f2635d65b78848e3c3e27c7179c3d4f6417efc6cfe7f7f94a9f1db2c014e9"
+
+[[files]]
 file = "config/simple-rpc.toml"
 hash = "a6e92815868818873966e429c9043ef86b31e7e385017595c09d21e12d250ab8"
 
