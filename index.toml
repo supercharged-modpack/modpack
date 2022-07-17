@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-copy-fabric.pw.toml"
-hash = "80f1c82f01492d16e02cb5976df64548f5ba85f5b5da00eb4a43fbb33cb18fc0"
+hash = "95a197802d070d629163943b238d4afb84138e436b6f2dcdfdf7717b68d11d2e"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Chunk Copy (Fabric)"
-filename = "chunkcopy-2.2.0.jar"
+filename = "chunkcopy-2.2.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/qPWd0l6O/versions/v2.2/chunkcopy-2.2.0.jar"
+url = "https://cdn.modrinth.com/data/qPWd0l6O/versions/v2.2.3/chunkcopy-2.2.3.jar"
 hash-format = "sha1"
-hash = "91df6b0dc8ff08947781b6c8ed9ef86ebf1c1bf7"
+hash = "2cb83959c6ed9a68306bfeaf3f2bc01d35fe03ba"
 
 [update]
 [update.modrinth]
 mod-id = "qPWd0l6O"
-version = "Cw5JntRJ"
+version = "CMO2LrzH"
