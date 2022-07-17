@@ -123,11 +123,6 @@ hash = "da090ce69efd0a8ac6a67876aa274e872b7a23e2462ea1e96bdc7799e1ac8d27"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "9793a50a86ab7b2d2419fa4c3eca9b04df55ece3250f75d6e70f0c44fd2ed453"
-metafile = true
-
-[[files]]
 file = "mods/better-mineshaft.pw.toml"
 hash = "a0cf7acbc9f708c2cd73cc89aec7a1429cfa4af3068f6a843f11ef20586166c4"
 metafile = true
@@ -488,6 +483,11 @@ hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
+file = "mods/magical-mahou.pw.toml"
+hash = "7fae09acaaeb11d2796b3ec45b4a15d41d6f9eebaa44b1501682354588d6ed35"
+metafile = true
+
+[[files]]
 file = "mods/mealapi.pw.toml"
 hash = "e647a60b9fde4189fee9c7de55af223de32df83f20818491e94180086d1969b8"
 metafile = true
@@ -525,11 +525,6 @@ metafile = true
 [[files]]
 file = "mods/moremusic.pw.toml"
 hash = "8fdc4c939b107f939dbb6cf445ed174b248d7c61721ba8cb2c89b4a48358d4a9"
-metafile = true
-
-[[files]]
-file = "mods/mythicmetals.pw.toml"
-hash = "82a6f6e97d141ba3ac11f27931600a2e14bf94907cf88fc26c63c1f078413858"
 metafile = true
 
 [[files]]
@@ -634,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "7a0648f91f4a7473214572cc5d7afa5b629fc82c90fbd69b21497a0aef747b36"
+hash = "09652c7a3f936b3a8322c8949b6645850b1c52114dcf8d886a638c549ff9c2dd"
 metafile = true
 
 [[files]]
