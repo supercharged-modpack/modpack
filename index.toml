@@ -434,6 +434,11 @@ hash = "56e3f31a4b60597aba78b84fd66a39d13280d3a125f6a9bf7dc65ed0f9af009c"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "3804ed093c0654b04502966d170014bd4387aa32f563882a1b9bdc21339dff79"
+metafile = true
+
+[[files]]
 file = "mods/kiln.pw.toml"
 hash = "2bd4443325ef2df10ef19de54454c29e15176a875ec361220762ba3bdbc81112"
 metafile = true
