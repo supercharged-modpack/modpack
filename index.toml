@@ -13,12 +13,20 @@ file = "config/desiredServers/desiredservers.json"
 hash = "432f2635d65b78848e3c3e27c7179c3d4f6417efc6cfe7f7f94a9f1db2c014e9"
 
 [[files]]
+file = "config/fvt/fvt.properties"
+hash = "a6a095804ebca7514e47cf2a2eef3b710afced1694ffd9cf9636fe1f86effd61"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "49ad477215a7b834bb3494df4084b61dbb80f5b633de30766cdedcdddbb4a27e"
+
+[[files]]
 file = "config/simple-rpc.toml"
 hash = "a6e92815868818873966e429c9043ef86b31e7e385017595c09d21e12d250ab8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f7d177f23689d108793e00b35c6c219f3077a917bd0a57595ed39a37fcfeddfa"
+hash = "14dc438f53af5a6f5f4db3b148bbe5ed977a1569cb344844b2aa1e777d138111"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
