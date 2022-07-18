@@ -76,11 +76,6 @@ hash = "0e0112e01df097b7f015ac0ad6a98e173c8e98a27719237ef21be06f8ad09fad"
 metafile = true
 
 [[files]]
-file = "mods/antighost.pw.toml"
-hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
 metafile = true
@@ -148,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
-metafile = true
-
-[[files]]
-file = "mods/boathud.pw.toml"
-hash = "771dc34939866f1ccc3c1cda206dd0b1b34616a02d948b6ee54a643a99e51e5d"
 metafile = true
 
 [[files]]
@@ -718,11 +708,6 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.pw.toml"
 hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
-metafile = true
-
-[[files]]
-file = "mods/stendhal.pw.toml"
-hash = "c963c276410d4216cbadaf6224171c629954cb0149055297b356c0c132e4c8b3"
 metafile = true
 
 [[files]]
