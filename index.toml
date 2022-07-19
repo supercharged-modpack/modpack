@@ -484,11 +484,6 @@ hash = "e647a60b9fde4189fee9c7de55af223de32df83f20818491e94180086d1969b8"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "00bd0c35c946be592537d6d8e6eaa466d572abe5bacbed5a7c8fb929fe76a3da"
-metafile = true
-
-[[files]]
 file = "mods/merge-enchantments.pw.toml"
 hash = "a1ddcd360312b027931b0fe654f87e71890721a13acab355a96df54dc957b0be"
 metafile = true
