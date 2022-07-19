@@ -29,6 +29,10 @@ file = "config/yosbr/options.txt"
 hash = "14dc438f53af5a6f5f4db3b148bbe5ed977a1569cb344844b2aa1e777d138111"
 
 [[files]]
+file = "config/zoomify.json"
+hash = "f479accd789f565f4405d61e5ce9861c35c5c7f2cf708fe3212a964eee602cff"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
 metafile = true
@@ -621,6 +625,11 @@ metafile = true
 [[files]]
 file = "mods/shadews-foxes.pw.toml"
 hash = "13609665c7c34f83488514d225e973482a14193930f90c1bf424da33905d7708"
+metafile = true
+
+[[files]]
+file = "mods/shotify.pw.toml"
+hash = "62ec1a46775f2973843a63246db1ca36b8bb500825adb3061b688ad78e21b924"
 metafile = true
 
 [[files]]
