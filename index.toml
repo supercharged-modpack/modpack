@@ -538,6 +538,11 @@ hash = "75ca28e134847fcd6ea835e35c36f9a57ca4ccccd618bafba570524d3c8142f2"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "e133de2b1c1c78233936f12027f41593885718e918cfa0053619b76d704ff90e"
+metafile = true
+
+[[files]]
 file = "mods/purpeille.pw.toml"
 hash = "b28d4e7cc67a9d4b35df0220d966c3849b77866919c25516025f62f70a7fe9f0"
 metafile = true
@@ -689,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "a67fd82b5cc7654563feceb7c9cf168ecaf0fab96f8b55bf312b44b571f3368d"
+hash = "ddac7bbfe506e4163f2ff69cf36c7d41526b91bb9a9492a5daecd902623db516"
 metafile = true
 
 [[files]]
