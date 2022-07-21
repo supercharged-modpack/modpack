@@ -328,6 +328,11 @@ hash = "c85522a1552b7e5b71a71c184d398eb723e5ae00515a020b84cb9c402c66be58"
 metafile = true
 
 [[files]]
+file = "mods/extra-generators.pw.toml"
+hash = "13b421e541e0cfad5742c077c6be8f09b425b1429e562523a8420659230e901d"
+metafile = true
+
+[[files]]
 file = "mods/extrasounds.pw.toml"
 hash = "6f37742a176a98d6b3c0f82fedb101a5e44b615cd3dab1422f3ce43622bc308f"
 metafile = true
@@ -455,6 +460,11 @@ metafile = true
 [[files]]
 file = "mods/mealapi.pw.toml"
 hash = "e647a60b9fde4189fee9c7de55af223de32df83f20818491e94180086d1969b8"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
 metafile = true
 
 [[files]]
