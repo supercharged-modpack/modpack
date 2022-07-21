@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "67dd247fd0098fdd3d33538193fc374df59fbb6118bc84d80abc64c854f93e96"
+hash = "c7786ca9f65e1947e753856361c7932ea412cbe348f4b52fa3cb01b41323f477"
 metafile = true
 
 [[files]]
@@ -258,11 +258,6 @@ hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
 metafile = true
 
 [[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "962114e1380ac1a83e59f287d90edd0af6a55b5d3d8f5a41c50619419f22c0c0"
-metafile = true
-
-[[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "1965a12b3c48cdefb67492cf848f2e334a234519286de49fd9259bc79742c76b"
 metafile = true
@@ -344,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
