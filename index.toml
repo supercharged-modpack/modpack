@@ -133,11 +133,6 @@ hash = "da090ce69efd0a8ac6a67876aa274e872b7a23e2462ea1e96bdc7799e1ac8d27"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "19b4c345ae519b9e73f56271f899265c07445ae8cd9f1c1149596e38a87dfced"
-metafile = true
-
-[[files]]
 file = "mods/better-mineshaft.pw.toml"
 hash = "a0cf7acbc9f708c2cd73cc89aec7a1429cfa4af3068f6a843f11ef20586166c4"
 metafile = true
@@ -210,11 +205,6 @@ metafile = true
 [[files]]
 file = "mods/command-block-ide.pw.toml"
 hash = "a2c09b56c74fd4e06d1737f5df1ed746704019157634e0b40e13dee30ae22921"
-metafile = true
-
-[[files]]
-file = "mods/completeconfig.pw.toml"
-hash = "67ddc2eb1c7db8fd3fb89ab0999fc663a22a7190ed4e800a086910d169069f66"
 metafile = true
 
 [[files]]
