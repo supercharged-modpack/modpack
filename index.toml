@@ -488,6 +488,11 @@ hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "2afd51fd858412978fbb46ee4305783842d617f31d18b20588d71d2ee31b8cc0"
+metafile = true
+
+[[files]]
 file = "mods/moremusic.pw.toml"
 hash = "8fdc4c939b107f939dbb6cf445ed174b248d7c61721ba8cb2c89b4a48358d4a9"
 metafile = true
@@ -500,11 +505,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
 
 [[files]]
