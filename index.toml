@@ -43,11 +43,6 @@ hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
 metafile = true
 
 [[files]]
-file = "mods/advanced-combat.pw.toml"
-hash = "ccb1d585775833179c2904ec5eebcc4ead91b74acc9bb3286e5b6f435ce1c4d9"
-metafile = true
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
