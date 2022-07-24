@@ -613,11 +613,6 @@ hash = "ce255e065dba1c4cc20a9a9c0267ab4a102de3c4558933ccd63101103de04810"
 metafile = true
 
 [[files]]
-file = "mods/simple-copper-pipes.pw.toml"
-hash = "0cdc3dee0005b9e90c41c47693a7441ab05e8b638a33e2a1a7d363e02cfcf7c5"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "0eed9129271052c7a1887ef65fb13f6213701fb63560963a442596ff7df17b62"
 metafile = true
