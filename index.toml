@@ -138,6 +138,11 @@ hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "199dcfab78b4278c0c51c64fab21c282b162cdd6d9d44071ad3e616a0a38b2da"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "1dea45a775887e68b1cafb587498dfa5514b3ea8d17ea58783920397f89ff7d7"
 metafile = true
