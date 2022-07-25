@@ -153,6 +153,11 @@ hash = "c657c465d2a8ccc5f6931dda385903b8c38e0f1195681d0fd882aed989eec244"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
+metafile = true
+
+[[files]]
 file = "mods/cammies-wearable-backpacks.pw.toml"
 hash = "74cdf6810bb4c11f002b4494a3ebd9f42f85fc60d0640a82838a7cee910cdd95"
 metafile = true
@@ -468,6 +473,11 @@ hash = "8fdc4c939b107f939dbb6cf445ed174b248d7c61721ba8cb2c89b4a48358d4a9"
 metafile = true
 
 [[files]]
+file = "mods/namefabric.pw.toml"
+hash = "1f07cab53fba60bbb2af9730254c3ad82e776dc5298bea978df5cd268b8cafda"
+metafile = true
+
+[[files]]
 file = "mods/netherite-cake.pw.toml"
 hash = "b5faa83e9948337f66eebf5f8cba58122ef0eabce427f322f63b05367bb0eab4"
 metafile = true
@@ -573,6 +583,11 @@ hash = "261c6f1cddd8eb3e4bdab72d2787bbc462007ab169844767bdf38ca1917c6b1d"
 metafile = true
 
 [[files]]
+file = "mods/roundaround-axolotl-buckets.pw.toml"
+hash = "97ef35d6a36e64aff31e6b9c10390fe6a6184b680eb270e27550bf84ec75b41f"
+metafile = true
+
+[[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "da403a55fd88f2d2aeacec6de320b7c8fb5010a7de8b831414fb4933681c9f44"
 metafile = true
@@ -665,6 +680,11 @@ metafile = true
 [[files]]
 file = "mods/ui-input-undo-fabric.pw.toml"
 hash = "ff1b3eef89752e0aa9c1be02d67760c441d7cd4b4c6ddf38c851eea4ced49a31"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "45400d55d51ef1de9b2a3599ae2c52d7bcf809708d971c17a2de49d76eb9a124"
 metafile = true
 
 [[files]]
