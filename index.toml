@@ -53,11 +53,6 @@ hash = "7854bfed9702edf6733199d7c13eb119eecac715542ed991e8b6dde3f9c05cd0"
 metafile = true
 
 [[files]]
-file = "mods/ae2things.pw.toml"
-hash = "44a34a8531cf5e5d06f7b6a02b8b1fcbb45da527cfe6e5029b4bef5bbb98e070"
-metafile = true
-
-[[files]]
 file = "mods/allisultimatetools.pw.toml"
 hash = "5abce17fb0cba8fca12b47a53b21d866e83789392d1202ef2c2cf12e46329746"
 metafile = true
@@ -170,11 +165,6 @@ metafile = true
 [[files]]
 file = "mods/cem.pw.toml"
 hash = "727c319290b015a46f54f379fdb32b1a8eeb649c85bb7409fe3b9ffd3ebe5d22"
-metafile = true
-
-[[files]]
-file = "mods/charm.pw.toml"
-hash = "3d92bb395633472dac89164cdb9c1509182d27441e652d7fecd78bc9ed6efe4c"
 metafile = true
 
 [[files]]
@@ -534,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "b28d4e7cc67a9d4b35df0220d966c3849b77866919c25516025f62f70a7fe9f0"
+hash = "e8f540789a9fc6a8cc328a30c99b04278f234714d7462e342072007e32727a0e"
 metafile = true
 
 [[files]]
@@ -604,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "0eed9129271052c7a1887ef65fb13f6213701fb63560963a442596ff7df17b62"
+hash = "01292cc6fd95f9e10138e98f33646ed235c18a0c1f542b5839928a7390a29835"
 metafile = true
 
 [[files]]
@@ -679,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/wagyourminimap.pw.toml"
-hash = "37950093ddff90a5ea615784ae753af9cc7b144ccfedea3ac45fab32028cb94c"
+hash = "258996244b947878263178a7e47d71acb7760fd80639194c6904fa6ae710b62a"
 metafile = true
 
 [[files]]

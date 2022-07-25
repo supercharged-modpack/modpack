@@ -1,13 +1,13 @@
 name = "Simple Discord RPC [Forge/Fabric/Quilt]"
-filename = "SimpleRPC-fabric-1.18.2-3.1.0.jar"
+filename = "SimpleRPC-fabric-1.18.2-3.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/1.18.2-3.1.0f/SimpleRPC-fabric-1.18.2-3.1.0.jar"
+url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/1.18.2-3.1.1f/SimpleRPC-fabric-1.18.2-3.1.1.jar"
 hash-format = "sha1"
-hash = "cef77e5d39c1f078fec601d04ae7c985936d8cba"
+hash = "37d8131f61620e995543c4d2fe867b51c4504e83"
 
 [update]
 [update.modrinth]
 mod-id = "ObXSoyrn"
-version = "z4nj6ZWY"
+version = "qL2eWVAq"
