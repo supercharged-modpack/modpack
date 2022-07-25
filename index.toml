@@ -643,6 +643,11 @@ hash = "d3df5f333ab62716ee0418ad9654a3bead43f69ccf26dfbcda81d1ab3e6d5606"
 metafile = true
 
 [[files]]
+file = "mods/the-box-trot.pw.toml"
+hash = "e2e34636719e8bbc49fceb369e481a4f65d81613296d99f075b44888006d9ad8"
+metafile = true
+
+[[files]]
 file = "mods/too-many-binds.pw.toml"
 hash = "9e300122d6fd6aab78a5669841ccf50ccaf17274ca2b690b3aa9b78de05edfbb"
 metafile = true
