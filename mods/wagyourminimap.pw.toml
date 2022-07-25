@@ -1,0 +1,13 @@
+name = "WagYourMinimap"
+filename = "wagyourminimap-1.18.2-1.0.8-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v9tYpGRa/versions/1.0.8+1.18.2-fabric/wagyourminimap-1.18.2-1.0.8-fabric.jar"
+hash-format = "sha1"
+hash = "23cea930ea316db79bba187acc7714d340305eba"
+
+[update]
+[update.modrinth]
+mod-id = "v9tYpGRa"
+version = "MrOJknyg"

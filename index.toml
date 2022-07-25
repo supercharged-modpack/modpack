@@ -408,18 +408,8 @@ hash = "56e3f31a4b60597aba78b84fd66a39d13280d3a125f6a9bf7dc65ed0f9af009c"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "3804ed093c0654b04502966d170014bd4387aa32f563882a1b9bdc21339dff79"
-metafile = true
-
-[[files]]
 file = "mods/kiln.pw.toml"
 hash = "2bd4443325ef2df10ef19de54454c29e15176a875ec361220762ba3bdbc81112"
-metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass.pw.toml"
-hash = "080d4789738ae0015c0a1fc76ffc3f6487f55dc5877b3de1c3b458b544efe362"
 metafile = true
 
 [[files]]
@@ -685,6 +675,11 @@ metafile = true
 [[files]]
 file = "mods/vtdownloader.pw.toml"
 hash = "a41130fe05540a7b14d952576da593521d0baf982c5a92ee092e16d2db2584c8"
+metafile = true
+
+[[files]]
+file = "mods/wagyourminimap.pw.toml"
+hash = "37950093ddff90a5ea615784ae753af9cc7b144ccfedea3ac45fab32028cb94c"
 metafile = true
 
 [[files]]
