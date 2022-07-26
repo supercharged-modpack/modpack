@@ -57,6 +57,11 @@ hash = "7854bfed9702edf6733199d7c13eb119eecac715542ed991e8b6dde3f9c05cd0"
 metafile = true
 
 [[files]]
+file = "mods/ae2things.pw.toml"
+hash = "44a34a8531cf5e5d06f7b6a02b8b1fcbb45da527cfe6e5029b4bef5bbb98e070"
+metafile = true
+
+[[files]]
 file = "mods/allisultimatetools.pw.toml"
 hash = "5abce17fb0cba8fca12b47a53b21d866e83789392d1202ef2c2cf12e46329746"
 metafile = true
