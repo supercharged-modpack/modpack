@@ -302,11 +302,6 @@ hash = "876736a028b08f4ff202b4e69ebd720f6eb30cfde86d3ddc13bfab60affcec8e"
 metafile = true
 
 [[files]]
-file = "mods/dcch.pw.toml"
-hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
-metafile = true
-
-[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "23eb153aa0939497801bbc48a75bcaafa73d42570fd4165ed2828b1c544549be"
 metafile = true
@@ -707,6 +702,11 @@ hash = "da403a55fd88f2d2aeacec6de320b7c8fb5010a7de8b831414fb4933681c9f44"
 metafile = true
 
 [[files]]
+file = "mods/screencapper.pw.toml"
+hash = "d5a903ecd65a215ceeed5480d8050093d4173c859695cac9c6049f9997ec34e3"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "c04e7a759cc12522f665a33cadf0fd8f182d1918ea17b7e818fee7575fca9cef"
 metafile = true
@@ -714,11 +714,6 @@ metafile = true
 [[files]]
 file = "mods/shadews-foxes.pw.toml"
 hash = "13609665c7c34f83488514d225e973482a14193930f90c1bf424da33905d7708"
-metafile = true
-
-[[files]]
-file = "mods/shotify.pw.toml"
-hash = "62ec1a46775f2973843a63246db1ca36b8bb500825adb3061b688ad78e21b924"
 metafile = true
 
 [[files]]
@@ -859,6 +854,11 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "2f0568fb1dc90f4a9783af9d3196edc3dc9ee5cdcd1eb1cb42080dd8bef3ade6"
+metafile = true
+
+[[files]]
+file = "mods/wmch.pw.toml"
+hash = "afb8bef63193b0499c4f5b99d9c8e47708d7836be108820afb558cc7addd129f"
 metafile = true
 
 [[files]]
