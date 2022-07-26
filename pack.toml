@@ -1,6 +1,6 @@
 name = "SuperCharged"
 author = "terminalmaid"
-version = "4.4.2"
+version = "4.4.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
