@@ -1,13 +1,13 @@
 name = "Roundaround's Axolotl Buckets"
-filename = "axolotlbuckets-1.0.0+1.18.2.jar"
+filename = "axolotlbuckets-1.1.0+1.18.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6tlhZmC5/versions/1.0.0+1.18.2/axolotlbuckets-1.0.0%2B1.18.2.jar"
+url = "https://cdn.modrinth.com/data/6tlhZmC5/versions/1.1.0+1.18.2/axolotlbuckets-1.1.0%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "146390b957806959ddaeccdebb30ac2a396209cc"
+hash = "b018a598a3210e60eec85277d26bf828cb37b126"
 
 [update]
 [update.modrinth]
 mod-id = "6tlhZmC5"
-version = "QjXL1BKU"
+version = "QsAYiyOx"

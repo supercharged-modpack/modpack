@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
+hash = "2d3c10d8c134ca9e5a24b0aff53bdf17e8702b8b8b5b997a0b8a542e0361587d"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/roundaround-axolotl-buckets.pw.toml"
-hash = "97ef35d6a36e64aff31e6b9c10390fe6a6184b680eb270e27550bf84ec75b41f"
+hash = "ba37a9f629af0941b98c3c383725757fb3e57047329313889d06e6c530f5a254"
 metafile = true
 
 [[files]]
@@ -704,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "ddac7bbfe506e4163f2ff69cf36c7d41526b91bb9a9492a5daecd902623db516"
+hash = "2f0568fb1dc90f4a9783af9d3196edc3dc9ee5cdcd1eb1cb42080dd8bef3ade6"
 metafile = true
 
 [[files]]
