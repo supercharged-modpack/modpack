@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "a66cc080f0bbdf2c47c356b7b0b4f93502d549348374d7ae4503a226cc3ff29a"
 
 [[files]]
+file = "config/dark-enchanting-v1.json5"
+hash = "cca1730532d100e0ea57b4e1664097f4b01e462248384f4c26ea3c80dfe523a2"
+
+[[files]]
 file = "config/debugify.json"
 hash = "db82104fddaf69716ac655e84bb5122b3b016798cc2d8dcb8950b2f15b7dd471"
 
