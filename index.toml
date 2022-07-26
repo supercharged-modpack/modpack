@@ -622,11 +622,6 @@ hash = "da5e40bd4767fe1e650e3aa8537074a52e8b2e354d0bec6c48e9f670672640a4"
 metafile = true
 
 [[files]]
-file = "mods/powershot.pw.toml"
-hash = "f4fe12948de475228156244ea6b4ffa2a847dd279900b566b41b82bf98659db3"
-metafile = true
-
-[[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "b82d125e848a17fa65ec7da78cf8222b3c719e234e6272386376fdbd5e82ff85"
 metafile = true
