@@ -1,0 +1,13 @@
+name = "playerless"
+filename = "playerless.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SlTIlcVM/versions/final/playerless.jar"
+hash-format = "sha1"
+hash = "35b22eec6900b02d0d0e5855097e63a6d27bf0eb"
+
+[update]
+[update.modrinth]
+mod-id = "SlTIlcVM"
+version = "C07HaWbR"

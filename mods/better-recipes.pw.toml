@@ -1,0 +1,13 @@
+name = "BetterRecipes"
+filename = "BetterRecipes-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WuZ2UxBT/versions/1.2.1/BetterRecipes-1.2.1.jar"
+hash-format = "sha1"
+hash = "faa103aaa06bb023b9a58dce3ca523a0b53bfeca"
+
+[update]
+[update.modrinth]
+mod-id = "WuZ2UxBT"
+version = "VH5SZSyQ"

@@ -1,0 +1,13 @@
+name = "Simply Houses"
+filename = "SimplyHouses-1.1.0-1.18.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cwKtPx6L/versions/1.1.0-1.18.2/SimplyHouses-1.1.0-1.18.2-fabric.jar"
+hash-format = "sha1"
+hash = "240dedd46971b5030388bf538989144e9ee78a30"
+
+[update]
+[update.modrinth]
+mod-id = "cwKtPx6L"
+version = "NavLtXqS"
