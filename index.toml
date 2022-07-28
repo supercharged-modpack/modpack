@@ -213,7 +213,12 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-copy-fabric.pw.toml"
-hash = "95a197802d070d629163943b238d4afb84138e436b6f2dcdfdf7717b68d11d2e"
+hash = "fac4dcf6a3b49a0b9520eb42321d6abb433be904830045bdec97dcb778e05220"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
 metafile = true
 
 [[files]]
@@ -253,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetic-armor.pw.toml"
-hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
+hash = "905aa3e8f9cf6c460df7aaf9e7a1c7947dbb931f36e805ef7442d19dc8967d2d"
 metafile = true
 
 [[files]]
@@ -683,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "261c6f1cddd8eb3e4bdab72d2787bbc462007ab169844767bdf38ca1917c6b1d"
+hash = "53128f525532c2dd8927f8ca23f67a357c0e84d3907f86b99274092f14b76625"
 metafile = true
 
 [[files]]
@@ -703,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/screencapper.pw.toml"
-hash = "d5a903ecd65a215ceeed5480d8050093d4173c859695cac9c6049f9997ec34e3"
+hash = "5cc581840dea88576f301a5a01980d4b869bc3a6239990e11b2fa4edf54224b7"
 metafile = true
 
 [[files]]

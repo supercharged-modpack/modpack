@@ -1,13 +1,13 @@
 name = "Screencapper"
-filename = "Screencapper-1.18.2-1.1.0.jar"
+filename = "Screencapper-1.18.2-1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yzNFLSqx/versions/1.1.0-1.18.2/Screencapper-1.18.2-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/yzNFLSqx/versions/1.2.0-1.18.2/Screencapper-1.18.2-1.2.0.jar"
 hash-format = "sha1"
-hash = "098a276f8e535520b8526254e5352b759257a890"
+hash = "53effa90b14b10691705df062d3d9156fa5289ba"
 
 [update]
 [update.modrinth]
 mod-id = "yzNFLSqx"
-version = "k6OpPDCj"
+version = "Lb0gI8mu"
