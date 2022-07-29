@@ -257,11 +257,6 @@ hash = "a1b004e98209cef7245bbf5363f55ab9c3029af5a73cf78458c1864d0f1181fb"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor.pw.toml"
-hash = "905aa3e8f9cf6c460df7aaf9e7a1c7947dbb931f36e805ef7442d19dc8967d2d"
-metafile = true
-
-[[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "b1c56b69505b05a5b601d66ae42bad4b7dbb47814bcd256c2e0b9236e9a79bf7"
 metafile = true
