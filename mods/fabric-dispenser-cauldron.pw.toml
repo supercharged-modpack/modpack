@@ -1,0 +1,13 @@
+name = "Dispenser Cauldron"
+filename = "dispenser-cauldron-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mggQ27AV/versions/1.0.5/dispenser-cauldron-1.0.5.jar"
+hash-format = "sha1"
+hash = "161a9cac2fd82435721dde05778bd3a5730fe06d"
+
+[update]
+[update.modrinth]
+mod-id = "mggQ27AV"
+version = "raaNWNMW"

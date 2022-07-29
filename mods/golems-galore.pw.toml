@@ -1,0 +1,13 @@
+name = "Golems Galore"
+filename = "golemsgalore-1.2.0+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4N322TJL/versions/1.2.0+1.18.2/golemsgalore-1.2.0%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "f29b0b3e179b0cb23b166d44dac27ca163029847"
+
+[update]
+[update.modrinth]
+mod-id = "4N322TJL"
+version = "fP76nsbS"

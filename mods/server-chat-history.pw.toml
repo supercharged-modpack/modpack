@@ -1,0 +1,13 @@
+name = "Server Chat History"
+filename = "chathistory-1.2.1+1.18.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XWWYJbdG/versions/1.2.1+1.18.1/chathistory-1.2.1%2B1.18.1.jar"
+hash-format = "sha1"
+hash = "3e6fd938bff9c5f46099551eb41a2207dd48bfab"
+
+[update]
+[update.modrinth]
+mod-id = "XWWYJbdG"
+version = "IuMTwBta"

@@ -1,0 +1,13 @@
+name = "CopperStuff"
+filename = "CopperStuff-1.18.2-1.0.0.1913186568.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lpbVzEpa/versions/1.0.0/CopperStuff-1.18.2-1.0.0.1913186568.jar"
+hash-format = "sha1"
+hash = "65b3a18732c43956a50a32ba2aa571311bd043fa"
+
+[update]
+[update.modrinth]
+mod-id = "lpbVzEpa"
+version = "SCCOiPMD"

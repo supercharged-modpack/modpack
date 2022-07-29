@@ -1,0 +1,13 @@
+name = "Merge Enchantments [Fabric/Quilt]"
+filename = "merenc-fabric-1.18.2-v1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xZUFmYJ5/versions/v1.7/merenc-fabric-1.18.2-v1.7.jar"
+hash-format = "sha1"
+hash = "8e334b33446c0d91517ded4391e316f37be5199d"
+
+[update]
+[update.modrinth]
+mod-id = "xZUFmYJ5"
+version = "lqznoszs"

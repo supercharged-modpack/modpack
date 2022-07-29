@@ -1,0 +1,13 @@
+name = "Nether Gold Veins"
+filename = "ngv-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LowX8PQT/versions/1.2.0/ngv-1.2.0.jar"
+hash-format = "sha1"
+hash = "b79b746baed24a97fe2291f551058f07846c30df"
+
+[update]
+[update.modrinth]
+mod-id = "LowX8PQT"
+version = "vyLHlQ2m"

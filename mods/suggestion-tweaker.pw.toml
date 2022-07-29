@@ -1,0 +1,13 @@
+name = "Suggestion Tweaker"
+filename = "suggestion-tweaker-1.18.2-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MBLj38R0/versions/1.18.x-1.2.0/suggestion-tweaker-1.18.2-1.2.0.jar"
+hash-format = "sha1"
+hash = "b1196c32b80572c09466cd92377c72279565d81c"
+
+[update]
+[update.modrinth]
+mod-id = "MBLj38R0"
+version = "6rVJCfOK"

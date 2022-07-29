@@ -1,0 +1,13 @@
+name = "Player Events"
+filename = "player-events-2.3.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.3.2/player-events-2.3.2.jar"
+hash-format = "sha1"
+hash = "a55b58df702c1decaff3b8bfe37c8363c0f4800a"
+
+[update]
+[update.modrinth]
+mod-id = "NLx6lJPJ"
+version = "ZL3N99Uo"

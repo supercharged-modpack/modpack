@@ -1,0 +1,13 @@
+name = "AfkDisplay"
+filename = "afkdisplay-1.0.0+1.18.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kJwABmWp/versions/1.0.0+1.18.2/afkdisplay-1.0.0%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "8db911dede6839645395b38c2c490d86a8f02a4f"
+
+[update]
+[update.modrinth]
+mod-id = "kJwABmWp"
+version = "4mIEhZFO"

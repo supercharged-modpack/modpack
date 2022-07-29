@@ -1,0 +1,13 @@
+name = "Gravel Carts"
+filename = "gravel-carts-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bEZbvFyy/versions/0.1.0/gravel-carts-0.1.0.jar"
+hash-format = "sha1"
+hash = "badab8f576e99d3e21c6525cee43b488ef359ab6"
+
+[update]
+[update.modrinth]
+mod-id = "bEZbvFyy"
+version = "FPk6orSb"

@@ -1,0 +1,13 @@
+name = "SimpleVillagers"
+filename = "simplevillagers-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uRSeGBg3/versions/1.18.2+1.2.2/simplevillagers-1.2.2.jar"
+hash-format = "sha1"
+hash = "d20d3059fc1a9166896fffdccdf139d7326f1c21"
+
+[update]
+[update.modrinth]
+mod-id = "uRSeGBg3"
+version = "g6kES29L"

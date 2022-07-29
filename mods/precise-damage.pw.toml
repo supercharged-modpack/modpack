@@ -1,0 +1,13 @@
+name = "Precise Damage"
+filename = "precise_armor-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v8DvxAx4/versions/precise_armor-1.0/precise_armor-1.0.jar"
+hash-format = "sha1"
+hash = "ccb9227afea20512963506f376786a7646b8223e"
+
+[update]
+[update.modrinth]
+mod-id = "v8DvxAx4"
+version = "LFreXUly"
