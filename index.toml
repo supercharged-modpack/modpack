@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "c7786ca9f65e1947e753856361c7932ea412cbe348f4b52fa3cb01b41323f477"
+hash = "3d4ef5dd7d1e52a7684be61b944ba6bf3f69cfdd47786b8c7897444a4c12cb83"
 metafile = true
 
 [[files]]
@@ -828,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "45400d55d51ef1de9b2a3599ae2c52d7bcf809708d971c17a2de49d76eb9a124"
+hash = "dbdda81b480de953e930111aec8d2579e879043775b137fd3acf9b1c93aec481"
 metafile = true
 
 [[files]]
@@ -843,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/wagyourminimap.pw.toml"
-hash = "258996244b947878263178a7e47d71acb7760fd80639194c6904fa6ae710b62a"
+hash = "6c50d43bebd7a3292d3d1da862282039ba73e50335c3194d504813d2dd189530"
 metafile = true
 
 [[files]]
