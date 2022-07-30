@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "09652c7a3f936b3a8322c8949b6645850b1c52114dcf8d886a638c549ff9c2dd"
+hash = "2428a21b72d1bd996c41e01149e5ed2b8e419c02871b77cc49ff814be0687f53"
 metafile = true
 
 [[files]]
