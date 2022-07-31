@@ -1,0 +1,13 @@
+name = "Apollo"
+filename = "apollo-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rQU8oPFc/versions/0.1.1/apollo-0.1.1.jar"
+hash-format = "sha1"
+hash = "7f8e7dcdd0863940133c86a76045f6e40bcbd56a"
+
+[update]
+[update.modrinth]
+mod-id = "rQU8oPFc"
+version = "817lbR48"

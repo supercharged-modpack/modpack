@@ -1,0 +1,13 @@
+name = "Plated"
+filename = "plated-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VdcrRmXs/versions/2.2.0/plated-2.2.0.jar"
+hash-format = "sha1"
+hash = "827d3b24473be732340e0eab0f8857a2f31022e5"
+
+[update]
+[update.modrinth]
+mod-id = "VdcrRmXs"
+version = "fafQVBAo"

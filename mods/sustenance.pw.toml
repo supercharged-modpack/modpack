@@ -1,0 +1,13 @@
+name = "Sustenance"
+filename = "sustenance-1.0.0-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ObzVYHpU/versions/1.0.0-1.18.2/sustenance-1.0.0-1.18.2.jar"
+hash-format = "sha1"
+hash = "ccd05eb1abad134c577443da275b518cc145a952"
+
+[update]
+[update.modrinth]
+mod-id = "ObzVYHpU"
+version = "x9hVRg7O"

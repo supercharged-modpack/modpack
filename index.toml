@@ -97,6 +97,11 @@ hash = "0e0112e01df097b7f015ac0ad6a98e173c8e98a27719237ef21be06f8ad09fad"
 metafile = true
 
 [[files]]
+file = "mods/apollo.pw.toml"
+hash = "32534c38c51a8c6b97b50c8aa6b01a7d7cf91a97f81d67da6c936c7abba81cd4"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
 metafile = true
@@ -267,6 +272,11 @@ hash = "600d5aaeaa304466907ecf988a37f27e9348ad84c12a7c8d389fdbad46c934de"
 metafile = true
 
 [[files]]
+file = "mods/coyote-time.pw.toml"
+hash = "8f78b048d5efc3f130f26580941a8f0df00ef47090bf59be4fcf3afbcab54ecb"
+metafile = true
+
+[[files]]
 file = "mods/craftable-enchanted-golden-apple.pw.toml"
 hash = "d11e2ba50e4a74f8ee260cff1f8e1e9545299c652932f1248d6234f6d254f972"
 metafile = true
@@ -402,6 +412,16 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/fluxtech.pw.toml"
+hash = "7bfad300599ec7788f8b7726fa3dc012fb60a12dca24129ca6f1492f25151c36"
+metafile = true
+
+[[files]]
+file = "mods/furnacemk2.pw.toml"
+hash = "68ca16a75e8418343620f595904fcfb7fb31ee8b5bd2d4fea5b26d7d99a652a6"
+metafile = true
+
+[[files]]
 file = "mods/fvt.pw.toml"
 hash = "740a7bd6d1f00ac4be71227a1a187683b275e87879cdb5648577f75b26807fc5"
 metafile = true
@@ -424,6 +444,11 @@ metafile = true
 [[files]]
 file = "mods/gravel_carts.pw.toml"
 hash = "4c49a2b41f5e6f971bc5cf9e9f3320790d07251bf0d46d72fd38e1fd501c6365"
+metafile = true
+
+[[files]]
+file = "mods/half-doors.pw.toml"
+hash = "933bae280bc8e1d572b3052f7912aa50929bc7e30be6a774bee0aba678babdc3"
 metafile = true
 
 [[files]]
@@ -532,6 +557,11 @@ hash = "2d28482058d2d26425ce201ff66684944cbf3bac2841cf4fbc9157fe51830fbe"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "028654bcb67c244e18ab0a528aae2d94479a752356231ba2b008aa5cea0e30f1"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
@@ -559,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
+metafile = true
+
+[[files]]
+file = "mods/onastick.pw.toml"
+hash = "f77bad8886d481af9fdf9a7b27f5e0e27e74a3dbdffd5f72f56662b5fb31a2ed"
 metafile = true
 
 [[files]]
@@ -597,6 +632,11 @@ hash = "71f2528c44cb0b64c03c25679f17c5b03d5f0f73e0478bee3e7a2163161ba866"
 metafile = true
 
 [[files]]
+file = "mods/plated.pw.toml"
+hash = "d027d7e40ff623be9493de93567061f0e1b31fa51b7fa1ff8be656e3763dcadd"
+metafile = true
+
+[[files]]
 file = "mods/playerless.pw.toml"
 hash = "02f4fb8b726bb9a9c7e57313df150d6e487fff6d214042596ab72013ac31d89c"
 metafile = true
@@ -614,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/power-scale.pw.toml"
 hash = "da5e40bd4767fe1e650e3aa8537074a52e8b2e354d0bec6c48e9f670672640a4"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "3536ef11faf8108f2f925487b793a7f19fee9c67b270594e0f63f44f9d0c26ff"
 metafile = true
 
 [[files]]
@@ -779,6 +824,11 @@ metafile = true
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "5228a366a70a5f5c8675962e1d17f4000a34b841c36aa8ef5cb2c51b82a4f127"
+metafile = true
+
+[[files]]
+file = "mods/sustenance.pw.toml"
+hash = "de2e670ed8e430a57f1ed653454e80273456992f40945bdb3441570561841de7"
 metafile = true
 
 [[files]]
