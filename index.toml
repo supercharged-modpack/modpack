@@ -682,11 +682,6 @@ hash = "3d7a58ca01d9b5ab185a12804c83047aad7b152a38e490ee4211f4c8ed49b9fe"
 metafile = true
 
 [[files]]
-file = "mods/quickcarpet.pw.toml"
-hash = "ac1018bf303cc5d611d7a3d3dc4d157e33fd62fb918e3af2686c97cd0969d894"
-metafile = true
-
-[[files]]
 file = "mods/quickcraft.pw.toml"
 hash = "be0f1399ff71a02cc6b9c2228cab2708d321313c6c40d47b306a2771d5685e0f"
 metafile = true
