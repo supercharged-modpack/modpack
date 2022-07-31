@@ -1,12 +1,12 @@
 name = "SuperCharged"
 author = "terminalmaid"
-version = "5.2.0"
+version = "5.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "041815aef9e1495ade44e368b86422daf84b909f4704a83628754ad1f0e1fcf1"
+hash = "68403a9bf905301749299982b8c9cb5fa01bce5f1fde21334f5d90da92ae9f46"
 
 [versions]
 fabric = "0.14.8"
