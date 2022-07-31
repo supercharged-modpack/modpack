@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "113d588dc04c88d829ff0a7ea35c87a2ba8438c4a1963b9c9c05d1944621bb83"
-
-[[files]]
 file = "mods/achievable.pw.toml"
 hash = "8f0ba688e1b44b74824d0be4a4751b0c6fcf2a0cdd69ecd3caf3469053e2fa83"
 metafile = true
