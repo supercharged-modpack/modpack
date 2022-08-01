@@ -882,11 +882,6 @@ hash = "a41130fe05540a7b14d952576da593521d0baf982c5a92ee092e16d2db2584c8"
 metafile = true
 
 [[files]]
-file = "mods/wagyourminimap.pw.toml"
-hash = "6c50d43bebd7a3292d3d1da862282039ba73e50335c3194d504813d2dd189530"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "32fb3d990a13819f8be435e135f92ba262aa455209f019852b05d2befb54e344"
 metafile = true
