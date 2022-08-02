@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "7854bfed9702edf6733199d7c13eb119eecac715542ed991e8b6dde3f9c05cd0"
+hash = "cf5dc84f8614662235d680ad9cd601de26e0f35690bc4aabb1427cc01a9ae66f"
 metafile = true
 
 [[files]]
@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "49a22647b2ec0cf9c7ededb6d4a4655f064a6d1ebbadaff3bf544e201bbea5a1"
+hash = "37c11528bcdb10c771c37d7e129a7841a8f0ebc08f91d04231914fec8a729fbd"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
+hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "cd322dd5da4ce5cea2f0a95ed075906a53802cfde6e815e1712ca7e6ce6c3715"
+hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
 metafile = true
 
 [[files]]
@@ -753,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "ce255e065dba1c4cc20a9a9c0267ab4a102de3c4558933ccd63101103de04810"
+hash = "a5c4cc9f403ae88b80a372ca0bb76d389c59cbfb681c1b682d0f7ca9920ee9b6"
 metafile = true
 
 [[files]]
@@ -868,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "dbdda81b480de953e930111aec8d2579e879043775b137fd3acf9b1c93aec481"
+hash = "a3d3bfc8f8bd71c48e528657bc0970d100b699e5dd01b224826ac56865931dc0"
 metafile = true
 
 [[files]]
